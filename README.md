@@ -37,9 +37,9 @@ Ayudante Alumno	Salvador Barbera
 
 Integrantes del grupo
 
-Nombre y apellido	
-400042- Cardelli Enzo Valentino 
-400021 - Martín Benjamin 
+Nombre y apellido	Legajo
+400042 - Cardelli Enzo Valentino
+400021 - Martín Benjamin
 403831 - Fernández Juan Martín
 400496 - Ribero Valentin
 400491 - Emiliano Ruiz Michelotti
